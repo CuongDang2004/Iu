@@ -1,4 +1,4 @@
-const textConfig = {
+fbconst textConfig = {
   text1: "Chào cậu!",
   text2: "Tớ có điều này muốn hỏi cậu nhớ phải trả lời thật lòng nhaaa:3333",
   text3: "Cậu yêu tớ có phải không nào ._.",
@@ -138,7 +138,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "https://www.facebook.com/anonimousfacebookvn//";
+            window.location = "https://www.facebook.com/anonimousfacebookvn/";
           },
         });
       }
